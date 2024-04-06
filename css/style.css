@@ -1,0 +1,44 @@
+body {
+background-color: #135D66;
+font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+
+.div0 {
+display: flex;
+justify-content: center;
+width: 80%;
+margin: auto;
+border: 1px solid grey;
+}
+
+
+
+.div1 {
+width: 200px;
+height: 200px;
+border: 20px solid red;
+margin: 20px;
+
+}
+
+.div2 {
+height: 200px;
+width: 200px;
+border: 20px solid blue;
+
+}
+
+.div3 {
+width: 200px;
+height: 200px;
+border: 20px solid green;
+padding: 20px;
+}
+
